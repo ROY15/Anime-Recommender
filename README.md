@@ -9,6 +9,7 @@ we can to download data fromhttps://www.kaggle.com/CooperUnion/anime-recommendat
 install packages from Anaconda Navigator Environments:
 
 flask
+
 sklearn
 
 Way to run this code:
