@@ -5,6 +5,7 @@ Recommender is design using Flask Framework with 3 different algorithm for diffe
 
 
 we can to download data fromhttps://www.kaggle.com/CooperUnion/anime-recommendations-database this site.
+
 Way to run this code:
 It contains Python file, in statics folder we have images and CSS files ,template folder contains html files and in Anime_data folder have data files.
 Please run this code in Spyder and in FireFox enter this  http://127.0.0.1:5001/ in address bar.
